@@ -7,3 +7,4 @@
 - Lots of Neos CMS projects, and libraries like my Inertia adapter for the Neos Flow Framework
 - Learning Rust, experiencing both enlightenment and suffering 🫪
 - Clauding like a pro 🫡
+- Laravel flows through my veins.
